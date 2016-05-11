@@ -8,4 +8,4 @@ Bayu Rahmad Azhari| 1144125| github.com/bayurahmadazhari
 Desta Rangga Rahay| 1144051 | github.com/desta26desta
 Entol Achmad Fikry Ilhamy| 1144115 | github.com/enfikry
 Gilang Romadhanu Tartila| 1144033 | github.com/gilangtartila99
-Randi Riski Mustari| 11440 | github.com/randimustari
+Randi Riski Mustari| 1144063 | github.com/randimustari
