@@ -1,7 +1,38 @@
 <html>
 <head>
-	
+<title>Repository Data</title>	
 <body>
+<center>
+	<h1>Repository Data Barang Elektronik</h1>
+
+
+	<br>
+	<h2>Tambah Data</h2>
+	<hr>
+	<form action="" method="post">
+	<table>
+		<tr>
+			<td>Nama Barang</td>
+			<td>:</td>
+			<td><input type="text" name="nama_barang"></td>
+		</tr>
+
+		<tr>
+			<td>Jenis Barang</td>
+			<td>:</td>
+			<td><input type="text" name="jenis_barang"></td>
+		</tr>
+
+		<tr>
+			<td colspan="3">
+				<center>
+					<input type="submit" name="simpan" value="Simpan">
+				</center>
+			</td>
+		</tr>
+		
+	</table>
+	</form>
 		
 	<h2> List Buku Tamu </h2>
 	<hr>
@@ -9,8 +40,8 @@
 	<table>
 		<tr>
 			<th>ID</th>
-			<th>Nama</th>
-			<th>Email</th>
+			<th>Nama Barang</th>
+			<th>Jenis Barang</th>
 		</tr>
 
 		<?php
@@ -41,34 +72,7 @@
 		?>
 	</table>
 
-
-	<br>
-	<h2>Tambah Data</h2>
-	<hr>
-	<form action="" method="post">
-	<table>
-		<tr>
-			<td>Nama</td>
-			<td>:</td>
-			<td><input type="text" name="nama_barang"></td>
-		</tr>
-
-		<tr>
-			<td>Jenis Barang</td>
-			<td>:</td>
-			<td><input type="text" name="jenis_barang"></td>
-		</tr>
-
-		<tr>
-			<td colspan="3">
-				<center>
-					<input type="submit" name="simpan" value="Simpan">
-				</center>
-			</td>
-		</tr>
-		
-	</table>
-	</form>
+	</center>
 
 </body>
 
