@@ -23,7 +23,7 @@ angular.module('starter.controllers', [])
     }else if(!repository.jenis_barang){
       $scope.showAlert({
         title: "Information",
-        message: "Jeni Barang Mohon Diisi"
+        message: "Jenis Barang Mohon Diisi"
       });
     }else{
       repositoryService.simpan({
@@ -78,13 +78,13 @@ angular.module('starter.controllers', [])
 
   $scope.showData = function() {
     repositoryService.ambilSemua().success(function(dataRepository) {
-      $scope.repositorys = dataRepository;
+      $scope.repository = dataRepository;
     });  
   };
 
   $scope.showData();
 
-  console.log($scope.repositorys);
+  console.log($scope.repository);
 
 })
 

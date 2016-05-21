@@ -4,7 +4,7 @@ angular.module('starter.services', [])
     var baseUrl = 'http://localhost/wscodeigniter/index.php/api/';
     return {
         login: function(repositoryForm){
-            return $http.post(baseUrl+'repository',sekolahForm,{
+            return $http.post(baseUrl+'repository',repositoryForm,{
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8;'
                 }
