@@ -1,8 +1,8 @@
-# Tugas-Besar-Kelompok-4-D4-TI-2C
+# Tugas Besar Web Service Kelompok 4 D4TI2C
 Aplikasi Repository Data Barang Elektronik menggunakan Web Service
 
-# Kelompok 4
-Nama | Npm | Link Github
+# Anggota Kelompok
+Nama | NPM | Link Github
 --------- | --------- | ---------
 Bayu Rahmad Azhari| 1144125| github.com/bayurahmadazhari
 Desta Rangga Rahay| 1144051 | github.com/desta26desta

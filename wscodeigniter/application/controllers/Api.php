@@ -1,12 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 class Api extends CI_Controller {
-	/**
-		* @Author				: Localhost {Ferdhika Yudira}
-		* @Email				: fer@dika.web.id
-		* @Web					: http://dika.web.id
-		* @Date					: 2015-07-09 14:48:37
-	**/
 	function __construct(){
 		parent::__construct();
 		// Load model m_api.php
@@ -17,8 +11,8 @@ class Api extends CI_Controller {
 	}
 	public function index(){
 		$coeg = array(
-			'name'		=> 'Ferdhika',
-			'website'	=> 'http://dika.web.id'
+			'name'		=> 'Tugas Besar Web Service',
+			'group'	=> '4'
 		);
 		echo json_encode($coeg);
 	}
