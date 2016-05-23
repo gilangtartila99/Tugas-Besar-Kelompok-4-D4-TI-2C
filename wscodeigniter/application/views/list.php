@@ -5,9 +5,9 @@
 <center>
 	<h1>Repository Data Barang Elektronik</h1>
 
- 
+
 	<br>
-	<h2>Tambah Data</h2>
+	<h2> Tambah Data </h2>
 	<hr>
 	<form action="" method="post">
 	<table>
@@ -34,7 +34,7 @@
 	</table>
 	</form>
 		
-	<h2> List Data Repository  </h2>
+	<h2> List Data Repository </h2>
 	<hr>
 
 	<table>
