@@ -5,7 +5,7 @@
 <center>
 	<h1>Repository Data Barang Elektronik</h1>
 
-
+ 
 	<br>
 	<h2>Tambah Data</h2>
 	<hr>
