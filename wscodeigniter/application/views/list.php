@@ -34,7 +34,7 @@
 	</table>
 	</form>
 		
-	<h2> List Buku Tamu </h2>
+	<h2> List Data Repository </h2>
 	<hr>
 
 	<table>
