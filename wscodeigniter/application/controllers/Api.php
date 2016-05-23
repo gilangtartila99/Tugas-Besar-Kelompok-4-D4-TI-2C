@@ -12,7 +12,7 @@ class Api extends CI_Controller {
 	public function index(){
 		$coeg = array(
 			'name'		=> 'Tugas Besar Web Service',
-			'group'	=> '4'
+			'group'		=> '4'
 		);
 		echo json_encode($coeg);
 	}
