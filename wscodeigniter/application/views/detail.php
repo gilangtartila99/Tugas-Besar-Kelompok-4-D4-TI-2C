@@ -3,7 +3,7 @@
 	
 <body>
 		
-	<h2> Detail Tamu <?php echo $repository['nama_barang'];?></h2>
+	<h2> Detail Repository <?php echo $repository['nama_barang'];?></h2>
 	<hr>
 
 	<table>
