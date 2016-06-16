@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'webservice',
+	'hostname' => 'mysql.idhostinger.com',
+	'username' => 'u383273344_tugas',
+	'password' => 'tugas1',
+	'database' => 'u383273344_tugas',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
